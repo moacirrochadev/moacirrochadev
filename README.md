@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao perfil do Moa :smiley:
 
 ## **Quem sou eu**
-  ### Sou advogado e professor de musculação. Atualmente estou cursando Superior de Tecnologia em Coding, a nível de graduação, e participando de Bootcamps sempre que possível e venho aprendendo muito nessa nova jornada.
+  ### Sou advogado e professor de musculação. Atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e participando de Bootcamps sempre que possível e venho aprendendo muito nessa nova jornada.
 
 ## **Conecte-se comigo** :computer:
 
