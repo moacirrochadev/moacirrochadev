@@ -1,16 +1,28 @@
-# Bem-vindo(a) ao perfil do Moa :smiley:
+## Olá a todos, bem-vindos! | Hi, there! Wecome! 🙋🏻‍♂️
+## Quem sou eu | About me
+  Olá, Me chamo Moacir Rocha! 🙋🏻‍♂️ Faço curso de Tecnólogo em Análise e Desenvolvimento de Sistemas, na Universidade da Amazônia (UNAMA), com duração de 24 meses, onde no momento estou no 2º período do curso.
+  
+  Além disso, sou advogado e professor de musculação, profissões as quais me ajudaram a desenvolver habilidades como atendimento ao cliente, empatia, aprendizado contínuo, liderança, solução de problemas, entre outras, que tenho certeza que ajudarão no desenvolvimento da minha carreira em TI.
 
-## **Quem sou eu**
-  ### Sou advogado e professor de musculação. Atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e participando de Bootcamps sempre que possível e venho aprendendo muito nessa nova jornada.
+  Desde novo sou apaixonado por tecnologia e por um bom período fiz parte da comunidade local conhecida como Linux Pai D'Égua. A curiosidade me levou a aprender a montagem e manutenção de computadores, notebooks e smartphones, aprender o básico sobre BIOS.
 
-## **Conecte-se comigo** :computer:
+  Gosto de:
+  - Música
+  - Filmes
+  - Séries
+  - Livros
+  - Basquete
+  - Musculação
+  
+
+## Conecte-se comigo :computer:
 
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/empreendedormoacirneto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/moacirrochadev/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=)](https://github.com/moacirrochadev)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/moacirroneto/)
 
-## **Habilidades** :nerd_face:
+## Habilidades :nerd_face:
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +31,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## **Git Stats** :man_technologist:
+## Git Stats :man_technologist:
 
  <div>
    <a href="https://github.com/moacirrochadev">
