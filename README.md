@@ -1,6 +1,8 @@
 ## Olá a todos, bem-vindos! | Hi, there! Wecome! 🙋🏻‍♂️
 ## Quem sou eu | About me
-  Olá, Me chamo Moacir Rocha! 🙋🏻‍♂️ Faço curso de Tecnólogo em Análise e Desenvolvimento de Sistemas, na Universidade da Amazônia (UNAMA), com duração de 24 meses, onde no momento estou no 2º período do curso.
+  Olá, Me chamo Moacir Rocha! 🙋🏻‍♂️ 
+  
+  Faço curso de Tecnólogo em Análise e Desenvolvimento de Sistemas, na Universidade da Amazônia (UNAMA), com duração de 24 meses, onde no momento estou no 2º período do curso.
   
   Além disso, sou advogado e professor de musculação, profissões as quais me ajudaram a desenvolver habilidades como atendimento ao cliente, empatia, aprendizado contínuo, liderança, solução de problemas, entre outras, que tenho certeza que ajudarão no desenvolvimento da minha carreira em TI.
 
@@ -17,21 +19,18 @@
 
 ## Conecte-se comigo :computer:
 
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/empreendedormoacirneto)
-
 [![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/moacirrochadev/)
 [![GitHub](github.svg)](https://github.com/moacirrochadev)
 [![Instagram](instagram.svg)](https://www.instagram.com/moacirroneto/)
 
 ## Habilidades :nerd_face:
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=markdown,html,css,js,react,java,php" />
+  </a>
+</p>
 
 ## Git Stats :man_technologist:
 
