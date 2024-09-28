@@ -15,14 +15,6 @@
   - Livros
   - Basquete
   - Musculação
-  
-
-## Conecte-se comigo :computer:
-
-[![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
-[![Linkedin](linkedin.svg)](https://www.linkedin.com/in/moacirrochadev/)
-[![GitHub](github.svg)](https://github.com/moacirrochadev)
-[![Instagram](instagram.svg)](https://www.instagram.com/moacirroneto/)
 
 ## Habilidades :nerd_face:
 
@@ -34,12 +26,18 @@
 
 ## Git Stats :man_technologist:
 
- <div>
+<div>
    <a href="https://github.com/moacirrochadev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moacirrochadev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moacirrochadev&layout=compact&langs_count=6&theme=merko"/>
-
 </div>
+
+## Conecte-se comigo :computer:
+
+[![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
+[![Linkedin](linkedin.svg)](https://www.linkedin.com/in/moacirrochadev/)
+[![GitHub](github.svg)](https://github.com/moacirrochadev)
+[![Instagram](instagram.svg)](https://www.instagram.com/moacirroneto/)
 
 
 <!---
