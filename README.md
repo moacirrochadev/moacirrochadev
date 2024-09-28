@@ -18,6 +18,8 @@
 ## Conecte-se comigo :computer:
 
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/empreendedormoacirneto)
+
+[![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
 [![Linkedin](linkedin.svg)](https://www.linkedin.com/in/moacirrochadev/)
 [![GitHub](github.svg)](https://github.com/moacirrochadev)
 [![Instagram](instagram.svg)](https://www.instagram.com/moacirroneto/)
