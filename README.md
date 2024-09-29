@@ -38,6 +38,10 @@
 [![LinkedIn](linkedin-square-icon.svg)](https://www.linkedin.com/in/moacirrochadev/)
 [![GitHub](github-copilot-icon.svg)](https://github.com/moacirrochadev)
 
+<a href="" target="_blank">
+  <img src="github-copilot-icon.svg">
+</a>
+
 
 <!---
 moacirrochadev/moacirrochadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
