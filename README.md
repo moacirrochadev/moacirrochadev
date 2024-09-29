@@ -35,6 +35,7 @@
 ## Conecte-se comigo :computer:
 
 [![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
+[![LinkedIn](linkedin-square-icon.svg)](https://www.linkedin.com/in/moacirrochadev/)
 
 
 <!---
