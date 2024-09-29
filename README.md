@@ -34,15 +34,18 @@
 
 ## Conecte-se comigo :computer:
 
-<div>
+<div style="color:blue;">
   <a href="https://www.dio.me/users/empreendedormoacirneto" target="_blank">
   <img src="dio-logo.svg">
-</a>
+</a>  
 <a href="https://www.linkedin.com/in/moacirrochadev/" target="_blank">
   <img src="linkedin-square-icon.svg">
-</a>
+</a>  
 <a href="https://github.com/moacirrochadev" target="_blank">
   <img src="github-copilot-icon.svg">
+</a>  
+  <a href="https://www.instagram.com/moa.tsx/" target="_blank">
+  <img src="black-instagram-icon.svg">
 </a>
 </div>
 
