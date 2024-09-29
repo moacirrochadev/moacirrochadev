@@ -34,14 +34,17 @@
 
 ## Conecte-se comigo :computer:
 
-[![DIO](dio-logo.svg)](https://www.dio.me/users/empreendedormoacirneto)
-[![LinkedIn](linkedin-square-icon.svg)](https://www.linkedin.com/in/moacirrochadev/)
-[![GitHub](github-copilot-icon.svg)](https://github.com/moacirrochadev)
-
-<a href="" target="_blank">
+<div>
+  <a href="https://www.dio.me/users/empreendedormoacirneto" target="_blank">
+  <img src="dio-logo.svg">
+</a>
+<a href="https://www.linkedin.com/in/moacirrochadev/" target="_blank">
+  <img src="linkedin-square-icon.svg">
+</a>
+<a href="https://github.com/moacirrochadev" target="_blank">
   <img src="github-copilot-icon.svg">
 </a>
-
+</div>
 
 <!---
 moacirrochadev/moacirrochadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
