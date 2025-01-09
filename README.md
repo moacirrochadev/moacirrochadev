@@ -1,8 +1,8 @@
 ## Olá a todos, bem-vindos! | Hi, there! Wecome! 🙋🏻‍♂️
 ## Quem sou eu | About me
-  Olá, Me chamo Moacir Rocha! 🙋🏻‍♂️ 
+  Olá, Me chamo __Moacir Rocha__! 🙋🏻‍♂️ 
   
-  Faço curso de Tecnólogo em Análise e Desenvolvimento de Sistemas, na Universidade da Amazônia (UNAMA), com duração de 24 meses, onde no momento estou no 2º período do curso.
+  Faço curso de Tecnólogo em __Análise e Desenvolvimento de Sistemas__, onde meu foco de especialização é o __Desenvolvimento Front-End__.
   
   Além disso, sou advogado e professor de musculação, profissões as quais me ajudaram a desenvolver habilidades como atendimento ao cliente, empatia, aprendizado contínuo, liderança, solução de problemas, entre outras, que tenho certeza que ajudarão no desenvolvimento da minha carreira em TI.
 
@@ -47,6 +47,15 @@
 <!-- TODO: Corrigir a sessão de contatos depois -->
 ## Conecte-se comigo :computer:
 
+[Linkedin](https://www.linkedin.com/in/moacirrochadev/)
+
+[Instagram](https://www.instagram.com/moa.tsx/)
+
+[Github](https://github.com/moacirrochadev)
+
+
+
+<!--
 <div style="text-align:center;">  
   <a href="https://www.linkedin.com/in/moacirrochadev/" target="_blank" style="text-decoration:none">
     <img src="linkedin-square-icon.svg">
@@ -68,6 +77,7 @@
   <img alt="" src="">
 </picture>
 </div>
+-->
 
 <!---
 moacirrochadev/moacirrochadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
