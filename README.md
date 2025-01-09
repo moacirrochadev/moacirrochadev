@@ -8,14 +8,26 @@
 
   Desde novo sou apaixonado por tecnologia e por um bom período fiz parte da comunidade local conhecida como Linux Pai D'Égua. A curiosidade me levou a aprender a montagem e manutenção de computadores, notebooks e smartphones, aprender o básico sobre BIOS.
 
-  Gosto de:
-  - Música
-  - Filmes
-  - Séries
-  - Livros
-  - Basquete
-  - Musculação
+---
+<details>
+  <summary>MEUS HOBBIES</summary>
+  
+  | Rank | Hobbies       |
+  |-----:|---------------|
+  |     1| Música 🎵    |
+  |     2| Filmes 🎥    |
+  |     3| Séries 🎞️    |
+  |     4| Livros 📚    |
+  |     5| Basquete 🏀  |
+  |     6| Musculação 💪|
+</details>
 
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat 
+
+---
 ## Habilidades :nerd_face:
 
 <p align="center">
@@ -32,21 +44,29 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moacirrochadev&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
+<!-- TODO: Corrigir a sessão de contatos depois -->
 ## Conecte-se comigo :computer:
 
-<div style="color:blue;">
-  <a href="https://www.dio.me/users/empreendedormoacirneto" target="_blank">
-  <img src="dio-logo.svg">
-</a>  
-<a href="https://www.linkedin.com/in/moacirrochadev/" target="_blank">
-  <img src="linkedin-square-icon.svg">
-</a>  
-<a href="https://github.com/moacirrochadev" target="_blank">
-  <img src="github-copilot-icon.svg">
-</a>  
-  <a href="https://www.instagram.com/moa.tsx/" target="_blank">
-  <img src="black-instagram-icon.svg">
-</a>
+<div style="text-align:center;">  
+  <a href="https://www.linkedin.com/in/moacirrochadev/" target="_blank" style="text-decoration:none">
+    <img src="linkedin-square-icon.svg">
+  </a>
+  
+  <a href="https://github.com/moacirrochadev" target="_blank" style="text-decoration:none">
+    <img src="github-copilot-icon.svg">
+  </a>  
+  
+  <a href="https://www.instagram.com/moa.tsx/" target="_blank" style="text-decoration:">
+    <img src="black-instagram-icon.svg">
+  </a>
+</div>
+
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: light)" srcset="">
+  <img alt="" src="">
+</picture>
 </div>
 
 <!---
